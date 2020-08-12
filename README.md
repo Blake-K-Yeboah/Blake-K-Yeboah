@@ -6,5 +6,4 @@ Welcome To My Profile
 - 🌱 I’m currently learning best security practices
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: Twitter - @BlakeYeboah
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I started programming at age 13
