@@ -1,6 +1,6 @@
 ### Hi there, Im Blake Yeboah! 👋
 
-Here are some ideas to get you started:
+Welcome To My Profile
 
 - 🔭 I’m currently working on a Bug Tracker
 - 🌱 I’m currently learning best security practices
