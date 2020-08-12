@@ -7,3 +7,4 @@ Welcome To My Profile
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: [Twitter - @BlakeYeboah](https://twitter.com/BlakeYeboah)
 - ⚡ Fun fact: I started programming at age 13
+- 💻 Portfolio: [blakeyeboah.com](https://www.blakeyeboah.com/)
