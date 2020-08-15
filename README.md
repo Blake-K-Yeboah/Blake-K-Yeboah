@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Bug Tracker
 - 💬 Ask me about anything
 - ⚡ Fun fact: I started programming at age 13
-- 💻 Portfolio: [blakeyeboah.com](https://www.blakeyeboah.com/)
+- 👯 I’m looking to collaborate on React.js
 
 ### Connect with me:
 
