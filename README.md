@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on a Bug Tracker
 - 💬 Ask me about anything
 - ⚡ Fun fact: I started programming at age 13
-- 👯 I’m looking to collaborate on React.js
 
 ### Connect with me:
 
