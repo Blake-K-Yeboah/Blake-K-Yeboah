@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img style="filter: invert(1)" align="left" alt="blakeyeboah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://blakeyeboah.com)
+[<img align="left" alt="blakeyeboah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://blakeyeboah.com)
 [<img align="left" alt="Blake Yeboah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/BlakeYeboah)
 [<img align="left" alt="Blake Yeboah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://au.linkedin.com/in/blake-yeboah-ba5715192)
 [<img align="left" alt="Blake Yeboah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/blake_yeboah/)
