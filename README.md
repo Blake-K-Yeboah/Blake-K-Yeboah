@@ -2,7 +2,7 @@
 
 ## Im a young australian web developer
 
-- 🔭 I’m currently working on rebuilding my portfolio
+- 🔭 I’m currently working on a bug tracker
 - 💬 Ask me about anything
 - ⚡ Fun fact: I started programming at age 13
 
