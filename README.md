@@ -1,6 +1,6 @@
 ### Hi there, Im Blake Yeboah! 👋
 
-## Im a young australian web developer
+## Im a full stack web developer
 
 - 🔭 I’m currently working on a bug tracker
 - 💬 Ask me about anything
