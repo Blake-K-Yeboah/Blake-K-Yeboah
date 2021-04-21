@@ -2,7 +2,7 @@
 
 ## Im a full stack web developer
 
-- 🔭 I’m currently working on a bug tracker
+- 🔭 I’m currently working on a financial portal
 - 💬 Ask me about anything
 - ⚡ Fun fact: I started programming at age 13
 
