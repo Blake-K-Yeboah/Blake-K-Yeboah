@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Blake-K-Yeboah.Blake-K-Yeboah)
 
-I am a full-stack software developer and technical writer on my [blog](https://blog.blakeyeboah.com/). I love programming, writing, playing chess and designing UIs.
+I am a full-stack software developer and technical writer on my [blog](https://blog.blakeyeboah.com/). I love programming, writing articles, playing chess and designing UIs.
 
 As a software engineer, I enjoy using my detail-oriented nature to build elegant, performing full stack web applications.
 
