@@ -1,21 +1,22 @@
-### Hi there, I'm <a href="https://www.blakeyeboah.com/" target="_blank">Blake Yeboah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm <a href="https://www.blakeyeboah.com/" target="_blank">Blake Yeboah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blake-yeboah/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.blakeyeboah.com/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blake_yeboah/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BlakeYeboah)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Blake-K-Yeboah.Blake-K-Yeboah)
 
-I am a full-stack software engineer and writer. I love programming, writing, playing chess and designing UIs.
+I am a full-stack software developer and technical writer on my [blog](https://blog.blakeyeboah.com/). I love programming, writing articles, playing chess and designing UIs.
 
-As a software engineer, I enjoy using my detail-oriented nature to build elegant, performing full stack web applications.
+As a web developer, I enjoy using my detail-oriented nature to build elegant, performing full stack web applications.
 
 <img align="right" alt="GIF" src="./coding.gif?raw=true" width="325" height="200" />
 
 **Talking about Personal Stuffs:**
 
 -   👨🏻‍💻 I’m currently working on developing my skills;
--   🚀 I’m currently learning cloud computing;
+-   🚀 I’m currently learning C#
 -   💬 Ask me about anything, I am happy to help;
 -   📝 I regulary write articles on my [blog](https://blog.blakeyeboah.com/);
 -   📫 How to reach me: contact@blakeyeboah.com;
@@ -31,6 +32,7 @@ As a software engineer, I enjoy using my detail-oriented nature to build elegant
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
